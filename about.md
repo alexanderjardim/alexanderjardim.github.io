@@ -2,10 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I work at B2W as IT Operations Manager, to build and operate our site infrastructure.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+As a software architect, I solve distributed systems complex problems.
+
+As a manager, I try to empower my colleagues, so that they can rise and shine, not only at their jobs but at their lives.
