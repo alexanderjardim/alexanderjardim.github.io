@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sessão 2"
+title:  "Sessão #2"
 date:   2020-06-07 12:00:00 -0300
 categories: rpg a-maldicao-e-a-sombra
 ---
