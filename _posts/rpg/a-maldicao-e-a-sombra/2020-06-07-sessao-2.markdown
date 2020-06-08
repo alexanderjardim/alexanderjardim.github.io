@@ -1,6 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Sessão 2"
 date:   2020-06-07 12:00:00 -0300
-categories: rpg domingo
+categories: rpg a-maldicao-e-a-sombra
 ---
+# 1369 CV
+
+## Martelo 3
+- O café da manhã foi interrompido abruptamente com a notícia da morte de Fomardo, e o grupo foi investigar a cena do crime;
