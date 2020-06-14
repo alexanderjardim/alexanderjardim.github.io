@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Sessão #3"
+date:   2020-06-14 12:00:00 -0300
+categories: rpg a-maldicao-e-a-sombra
+---
+# 1369 CV
+
+## Nível 2 alcançado
+1. Aphrasyus: druida nível 2
+1. Dwyr: ladino nível 2
+1. Estinien: bruxo nível 2
+1. Fen: clérigo nível 1 (multiclasse)
+1. Othelo: artífice nível 2
+
+
+## Martelo 3
+### Seguindo Felanil
+- O grupo seguiu os rastros de Felanil, para dentro da Floresta Dançante;
+- Até que os rastros ficaram confusos, e mudavam constantemente até não fazerem mais sentido;
+- Foi nesse momento que Othelo perdeu-se do grupo, obrigando Aspharyus a separar-se para procurá-lo;
+
+### O cerco dos Niblins
+- Quando o grupo conseguiu reunir-se, acabou cercado por niblins, e um combate seguiu-se;
+- Alguns niblins estavam equipados com arcos e disparavam flechas de sono;
+- Fen e Aphrasyus observaram que essas fadas são covardes e não costumam atacar a não ser que em óbvia vantagem;
+    - também lembraram que niblins são criados por megeras;
+- Othelo observou a semelhança entre os niblins e Dentes-de-ferro;
+- O combate resolveu-se com mais ou menos metade dos niblins fugindo;
+- O grupo retornou a busca por Felanil
+
+```
+Recursos gastos
+Aphrasyus: 1 slot de 1o nível
+Fen: 2 slots de primeiro nível, 1 dado de inspiração bárdica (Aphrasyus)
+```
+
+### O encontro com o mago
+- Felanil é encontrado após o grupo observar uma explosão na floresta;
+- O elfo foi encontrado no fundo de um escarpa, e o reage de maneira hostil inicialmente;
+- Após alguma discussão, o grupo ficou sabendo que Felanil não era cúmplice de Comero, que na verdade o mamgo procurava descobrir qual o segredo do bruxo que fingia ser feiticeiro. As coisas que Felanil deixou claro;
+    - Comero despertou seus poderes mágicos sob circunstâncias misteriosas quando tinha 17 anos. Pouco tempo depois sua primeira noiva morreu;
+    - Ele já viu Comero conversando com a entidade, mas não conseguiu ver a entidade;
+        - "o sangue mais novo precisa alimentar-se do sangue mais velho", em alusão ao assassinato de Fomardo;
+    - Fomero, o patriarca original dos Antone, pouco antes do nascimento de Vidarena, 13 anos atrás;
+- O grupo seguiu junto com Felanil na direção do Círculo das Fadas. O lugar onde Felanil já avistou Comero invocando a entidade;
+
+### O Círculo das Fadas
+- Sob influência das brumas da floresta, que eram mais fortes no círculo, Othelo e Felanil acabram separando-se do resto do grupo;
+
+### A Casa Estranha
+- Perdido, Othelo segue o aroma de comida que sentiu e encontra uma casa estranha, feita de pedra, coberta de vegetação, muito velha, no meio de uma plantação circular de vários cogumelos diferentes;
+- Quando aproximou-se da casa, Othelo ouviu uma senhora e uma jovem conversando. Ele foi até a porta e a mesma abriu;
+- A senhora recebe Othelo e pede que sua neta sirva janta para ele;
+- Enquanto Othelo jantava e conversava com as duas (a senhora mais gentil, e a jovem o hostilizando), o resto do grupo chegou a porta e foram recebidos  
+- A coisa não seguiu bem, e Fen e Aphrasyus hostilizam as duas mulheres, com Fen claramente as acusando de serem megeras;
+- Após Fen disparar um Vicious Mockery contra Anilda (a moça), a velha o amaldiçoa a nunca conseguir sair da floresta;
+- Nesse momento, Estienem intervem e intimida a velha desfazer a maldição, o que aparentemente é feito;
+- Logo depois, o grupo foi embora da casa, sem encontrar Felanil;
+- Do lado de fora da casa, o grupo discutiu se estas elas sabem algo sobre Comero, e até se estão envolvidas;
+- Pouco depois, a casa levanta-se, apoiada em 2 pernas de galinha feitas de raizes das árvores da região, e sai andando;
+- Nesse momento, Aphrasyus começa a seguir a casa;
