@@ -1,4 +1,4 @@
----
+it ---
 layout: post
 title:  "Sessão #1"
 date:   2020-05-31 12:00:00 -0300
@@ -16,7 +16,7 @@ categories: rpg a-maldicao-e-a-sombra
 
 ## Martelo 2
 - Pela manhã, Aspharyus e Talada conversaram sobre o ano novo. Talada convidou Aspharyus para o aniversário de Viderana, cuja comemoração começaria de noite, e pela manhã haveria a abertura de presentes;
-- Telada também contou para Aspharyus que o géiser silvestre cuspiu um cálice de ouro;
+- Telada também contou para Aspharyus que o Geiser Silvestre cuspiu um cálice de ouro;
 - O grupo chegou quase de noite na Ponte do Centauro e foram para a única estalagem do vilarejo a margem da ponte.
 - Lá foram atendido por Romara.
 - Tomara vendeu uma garrafa de Viscacano Branco, por 2 po e 5 pp para Cole, que pretendia dar a garrafa como presente para Viderana;
