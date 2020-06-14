@@ -6,12 +6,12 @@ categories: rpg a-maldicao-e-a-sombra
 ---
 # 1369 CV
 
-## Nível 2 alcançado
-1. Aphrasyus: druida nível 2
-1. Dwyr: ladino nível 2
-1. Estinien: bruxo nível 2
-1. Fen: clérigo nível 1 (multiclasse)
-1. Othelo: artífice nível 2
+> #### Nível 2 alcançado
+> 1. Aphrasyus: druida nível 2
+> 1. Dwyr: ladino nível 2
+> 1. Estinien: bruxo nível 2
+> 1. Fen: clérigo nível 1 (multiclasse)
+> 1. Othelo: artífice nível 2
 
 
 ## Martelo 3
@@ -29,11 +29,10 @@ categories: rpg a-maldicao-e-a-sombra
 - O combate resolveu-se com mais ou menos metade dos niblins fugindo;
 - O grupo retornou a busca por Felanil
 
-```
-Recursos gastos
-Aphrasyus: 1 slot de 1o nível
-Fen: 2 slots de primeiro nível, 1 dado de inspiração bárdica (Aphrasyus)
-```
+> #### Recursos gastos
+> 1. Aphrasyus: 1 slot de 1o nível
+> 1. Fen: 2 slots de primeiro nível, 1 dado de inspiração bárdica (Aphrasyus)
+
 
 ### O encontro com o mago
 - Felanil é encontrado após o grupo observar uma explosão na floresta;
